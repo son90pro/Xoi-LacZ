@@ -1,170 +1,116 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehkx5r510/image/small" group-title="Xôi Lạc Z TV" , 🟢 00:30 23/11 ⚽ Osasuna vs Malaga (FILIP)
-https://live3.klerovamediadelivery.com/live/channel19.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehkx5r510/image/small" group-title="Xôi Lạc Z TV" , 🟢 00:30 23/11 ⚽ Osasuna vs Malaga (HD FILIP)
-https://live2.pro2cdnlive.com/live/channel-19.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (ROY)
-https://live2.pro2cdnlive.com/live/channel1.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (HD ROY)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795368048-0-0-ffc694fab447a3a514e3ec88b9cff23d
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (NICK)
-https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=ac57d8c4968bd20176526124dc0fabdb&wsABSTime=1795411251
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (HD NICK)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795368054-0-0-7af1e664aed60f86da452c628488f362
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (FABIO)
-https://live3.klerovamediadelivery.com/live/channel2.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (HD FABIO)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795368066-0-0-68ac5b41b559bb88ab9d6b5b4dab7daa
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (BRADY)
-https://live3.klerovamediadelivery.com/live/channel15.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (HD BRADY)
-https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=3635c07af8390809ffd07a3010be4724&wsABSTime=1795411271
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (RIO)
-https://live3.klerovamediadelivery.com/live/channel16.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (HD RIO)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795368075-0-0-567f1e406891d57206db73b8e0045395
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (MAX)
-https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=f72a3af8630bf9b1655981116dd0dd9b&wsABSTime=1795411278
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Liverpool vs Manchester United (HD MAX)
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795368080-0-0-e7a302f867d0a65eb9c82803bbc2c174
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Werder Bremen vs Hamburger SV (KEN)
-https://live3.klerovamediadelivery.com/live/channel18.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhdxorepz/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:30 22/11 ⚽ Werder Bremen vs Hamburger SV (HD KEN)
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795368088-0-0-17b23f7ea2f5d463b9f8543d9a55bc09
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 00:00 23/11 ⚽ AC Milan vs Frosinone (ASTRA)
-https://live3.klerovamediadelivery.com/live/channel11.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph63er8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 00:00 23/11 ⚽ AC Milan vs Frosinone (HD ASTRA)
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795368093-0-0-c8e57fe48aafbd679011b78ddc060f2f
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho5okr8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 22:30 22/11 ⚽ Lausanne Sports vs Vaduz (BEE)
-https://live3.klerovamediadelivery.com/live/channel8.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho5okr8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 22:30 22/11 ⚽ Lausanne Sports vs Vaduz (HD BEE)
-https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795368100-0-0-ce3c2b79fb14851d0505fbc244df5995
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7hee1qdyj/image/small" group-title="Xôi Lạc Z TV" , 🟢 22:30 22/11 ⚽ FC Basel 1893 vs Luzern (ZANE)
-https://live3.klerovamediadelivery.com/live/channel22.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7hee1qdyj/image/small" group-title="Xôi Lạc Z TV" , 🟢 22:30 22/11 ⚽ FC Basel 1893 vs Luzern (HD ZANE)
-https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795368106-0-0-1743854831a77e1cfb7796a87972fdd7
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh46o0m0ve/image/small" group-title="Xôi Lạc Z TV" , 🟢 22:30 22/11 ⚽ Uruguay U17 vs Haiti U17 (JEAN)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph1e7r8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 06:07 23/11 ⚽ Club Guadalajara vs Cruz Azul (JEAN)
 https://live3.klerovamediadelivery.com/live/channel7.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh46o0m0ve/image/small" group-title="Xôi Lạc Z TV" , 🟢 22:30 22/11 ⚽ Uruguay U17 vs Haiti U17 (HD JEAN)
-https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001795368112-0-0-83c38a64a0994580bfe1fc88166a03d5
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph1e7r8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 06:07 23/11 ⚽ Club Guadalajara vs Cruz Azul (HD JEAN)
+https://live2.pro2cdnlive.com/live/channel-7.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho5nmd7o/image/small" group-title="Xôi Lạc Z TV" , 🟢 22:45 22/11 ⚽ Go Ahead Eagles vs Fortuna Sittard (NEMO)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/8y39mp4t8dkmojx/image/small" group-title="Xôi Lạc Z TV" , 🟢 06:00 23/11 🏀 Miami Heat vs Oklahoma City Thunder (TOMMY)
+https://live2.pro2cdnlive.com/live/channel29.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/8y39mp4t8dkmojx/image/small" group-title="Xôi Lạc Z TV" , 🟢 06:00 23/11 🏀 Miami Heat vs Oklahoma City Thunder (HD TOMMY)
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001795387843-0-0-a62e48efb93ef4d18f891a5861ba680d
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he4vqdyj/image/small" group-title="Xôi Lạc Z TV" , 🟢 04:30 23/11 ⚽ Fluminense RJ vs Mirassol SP (BEE)
+https://live3.klerovamediadelivery.com/live/channel8.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7he4vqdyj/image/small" group-title="Xôi Lạc Z TV" , 🟢 04:30 23/11 ⚽ Fluminense RJ vs Mirassol SP (HD BEE)
+https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795387849-0-0-4c87c6633e6f861388a1b2a714681078
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlo87rz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 04:00 23/11 ⚽ Nashville SC vs FC Cincinnati (SILVA)
+https://live3.klerovamediadelivery.com/live/channel20.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlo87rz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 04:00 23/11 ⚽ Nashville SC vs FC Cincinnati (HD SILVA)
+https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001795387864-0-0-8091e16d41f4ee4447fda602dfb75730
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhop0md7o/image/small" group-title="Xôi Lạc Z TV" , 🟢 05:00 23/11 ⚽ River Plate vs CA Lanús (NEMO)
 https://live3.klerovamediadelivery.com/live/channel17.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho5nmd7o/image/small" group-title="Xôi Lạc Z TV" , 🟢 22:45 22/11 ⚽ Go Ahead Eagles vs Fortuna Sittard (HD NEMO)
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001795368117-0-0-601b7fdf05006c94d030931ab0ec9824
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhop0md7o/image/small" group-title="Xôi Lạc Z TV" , 🟢 05:00 23/11 ⚽ River Plate vs CA Lanús (HD NEMO)
+https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001795387869-0-0-b99064c29ab63f920de04d401d69e4f7
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhy0dqvy9/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ Trabzonspor vs Eyupspor (JOHAN)
-https://live3.klerovamediadelivery.com/live/channel12.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhy0dqvy9/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ Trabzonspor vs Eyupspor (HD JOHAN)
-https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795368125-0-0-da38b55697b62703a9549bcca10fbef3
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghvj5km0ve/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ Rodina Moscow vs Lokomotiv Moscow (OLER)
-https://live3.klerovamediadelivery.com/live/channel28.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghvj5km0ve/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ Rodina Moscow vs Lokomotiv Moscow (HD OLER)
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795368132-0-0-084e1d85d657f5fc6811bac737097f4a
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlgkorz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ KFUM Oslo vs Brann (RAVEN)
-https://live3.klerovamediadelivery.com/live/channel21.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlgkorz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ KFUM Oslo vs Brann (HD RAVEN)
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795368139-0-0-2188b3afc502536f6b13a617d8544821
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6wyr6od/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ Aalesund FK vs Rosenborg (POLO)
-https://live3.klerovamediadelivery.com/live/channel10.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6wyr6od/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ Aalesund FK vs Rosenborg (HD POLO)
-https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795368144-0-0-542ff9d22e426f2177e082a7a500ed7c
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h886mojx/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ Austria Vienna vs Red Bull Salzburg (LOGAN)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg975ryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 05:30 23/11 ⚽ RB Bragantino vs Vasco da Gama (LOGAN)
 https://live3.klerovamediadelivery.com/live/channel23.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h886mojx/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 ⚽ Austria Vienna vs Red Bull Salzburg (HD LOGAN)
-https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001795368151-0-0-c2900689f78f853c428bbe5f6174b040
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg975ryk0/image/small" group-title="Xôi Lạc Z TV" , 🟢 05:30 23/11 ⚽ RB Bragantino vs Vasco da Gama (HD LOGAN)
+https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001795387875-0-0-8fa1daec0e1bd5c3785f76adf477dead
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/2y8m4vfgnooml07/image/small" group-title="Xôi Lạc Z TV" , 🟢 00:00 23/11 🥎 Alexander Zverev vs Carlos Alcaraz Garfia (VIC)
-https://live3.klerovamediadelivery.com/live/channel32.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/2y8m4vfgnooml07/image/small" group-title="Xôi Lạc Z TV" , 🟢 00:00 23/11 🥎 Alexander Zverev vs Carlos Alcaraz Garfia (HD VIC)
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001795368158-0-0-80c1e490d2603a62fd1df4e00bc924b1
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p4jwq23hykdr0ve/image/small" group-title="Xôi Lạc Z TV" , 🟢 00:00 23/11 🏐 Nữ Vero Volley vs Nữ Imoco Volley (TYSON)
-https://live3.klerovamediadelivery.com/live/channel33.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p4jwq23hykdr0ve/image/small" group-title="Xôi Lạc Z TV" , 🟢 00:00 23/11 🏐 Nữ Vero Volley vs Nữ Imoco Volley (HD TYSON)
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001795368164-0-0-15e19dfb5ed01c21aad525c6662b15fa
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/1l4rjevu68j9m7v/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 22/11 🎮 Zena Esports vs WLGaming Esports (MARTY)
-https://live3.klerovamediadelivery.com/live/channel30.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/1l4rjevu68j9m7v/image/small" group-title="Xôi Lạc Z TV" , 🟢 20:00 22/11 🎮 Zena Esports vs WLGaming Esports (HD MARTY)
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001795368170-0-0-616a624971a9d174f0175122d908311d
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/3glrwwotwv02rdy/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 🎮 Valerion Esports vs Arctic Pandas (MARTY)
-https://live3.klerovamediadelivery.com/live/channel30.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/3glrwwotwv02rdy/image/small" group-title="Xôi Lạc Z TV" , 🟢 23:00 22/11 🎮 Valerion Esports vs Arctic Pandas (HD MARTY)
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001795368178-0-0-57884fa1a31c0db8378fae92c67dbb29
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtoezq6od/image/small" group-title="Xôi Lạc Z TV" , 03:30 23/11 🏀 Atlanta Hawks vs Detroit Pistons (KOBE)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtoezq6od/image/small" group-title="Xôi Lạc Z TV" , 🟢 03:30 23/11 🏀 Atlanta Hawks vs Detroit Pistons (KOBE)
 https://live3.klerovamediadelivery.com/live/channel27.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtoezq6od/image/small" group-title="Xôi Lạc Z TV" , 03:30 23/11 🏀 Atlanta Hawks vs Detroit Pistons (HD KOBE)
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001795368183-0-0-9cba55b549a2f73580fc88a804c8a622
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtoezq6od/image/small" group-title="Xôi Lạc Z TV" , 🟢 03:30 23/11 🏀 Atlanta Hawks vs Detroit Pistons (HD KOBE)
+https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001795387881-0-0-be835c333107beaa90a584255bada43e
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/8y39mp4t8dkmojx/image/small" group-title="Xôi Lạc Z TV" , 06:00 23/11 🏀 Miami Heat vs Oklahoma City Thunder (TOMMY)
-https://live2.pro2cdnlive.com/live/channel29.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gholor6od/image/small" group-title="Xôi Lạc Z TV" , 🟡 06:30 23/11 ⚽ Chicago Fire vs Charlotte FC (FELIX)
+https://live3.klerovamediadelivery.com/live/channel24.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/8y39mp4t8dkmojx/image/small" group-title="Xôi Lạc Z TV" , 06:00 23/11 🏀 Miami Heat vs Oklahoma City Thunder (HD TOMMY)
-https://live2.pro2cdnlive.com/live/channel-29.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gholor6od/image/small" group-title="Xôi Lạc Z TV" , 🟡 06:30 23/11 ⚽ Chicago Fire vs Charlotte FC (HD FELIX)
+https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001795387887-0-0-0df622b546bb398967f42d3f135bd268
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/kjw2r02tdkkqz84/image/small" group-title="Xôi Lạc Z TV" , 07:00 23/11 🏀 Chicago Bulls vs Denver Nuggets (KOBE)
-https://live2.pro2cdnlive.com/live/channel27.flv
+https://live3.klerovamediadelivery.com/live/channel27.flv
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/kjw2r02tdkkqz84/image/small" group-title="Xôi Lạc Z TV" , 07:00 23/11 🏀 Chicago Bulls vs Denver Nuggets (HD KOBE)
-https://live2.pro2cdnlive.com/live/channel-27.flv
+https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001795387892-0-0-0832b2d457ab8d6486776ff737036096
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t16oq86p/image/small" group-title="Xôi Lạc Z TV" , 08:00 23/11 🏀 New York Knicks vs Indiana Pacers (ALAN)
-https://live2.pro2cdnlive.com/live/channel25.flv
+https://live3.klerovamediadelivery.com/live/channel25.flv
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t16oq86p/image/small" group-title="Xôi Lạc Z TV" , 08:00 23/11 🏀 New York Knicks vs Indiana Pacers (HD ALAN)
-https://live2.pro2cdnlive.com/live/channel-25.flv
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001795387898-0-0-243b149c654c75c4b1af3ae10d2c3f85
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/j1l4rjztpgzm7vx/image/small" group-title="Xôi Lạc Z TV" , 08:30 23/11 🏀 Golden State Warriors vs Boston Celtics (TOMMY)
-https://live2.pro2cdnlive.com/live/channel29.flv
+https://live3.klerovamediadelivery.com/live/channel29.flv
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/j1l4rjztpgzm7vx/image/small" group-title="Xôi Lạc Z TV" , 08:30 23/11 🏀 Golden State Warriors vs Boston Celtics (HD TOMMY)
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001795387905-0-0-8262bb6d753791824dd030fef970e95f
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/4zp5rzktv0pr82w/image/small" group-title="Xôi Lạc Z TV" , 17:00 23/11 🏀 Nữ Sinhan Bank vs Nữ Bucheon Hanabank (ALAN)
+https://live2.pro2cdnlive.com/live/channel25.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/4zp5rzktv0pr82w/image/small" group-title="Xôi Lạc Z TV" , 17:00 23/11 🏀 Nữ Sinhan Bank vs Nữ Bucheon Hanabank (HD ALAN)
+https://live2.pro2cdnlive.com/live/channel-25.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergyt9zjr8k0/image/small" group-title="Xôi Lạc Z TV" , 18:30 23/11 🏀 Nữ Shandong Speed vs Nữ SiChuan JinQiang (TOMMY)
+https://live2.pro2cdnlive.com/live/channel29.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergyt9zjr8k0/image/small" group-title="Xôi Lạc Z TV" , 18:30 23/11 🏀 Nữ Shandong Speed vs Nữ SiChuan JinQiang (HD TOMMY)
 https://live2.pro2cdnlive.com/live/channel-29.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/x7lm797bklxnr2w/image/small" group-title="Xôi Lạc Z TV" , 02:00 23/11 🎮 DOCISK vs Francesinhas (MARTY)
-https://live3.klerovamediadelivery.com/live/channel30.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/j1l4rjztw82m7vx/image/small" group-title="Xôi Lạc Z TV" , 19:00 23/11 🏀 Nữ Xinjiang Tianshan vs Nữ Hebei Hengshuihu (KOBE)
+https://live2.pro2cdnlive.com/live/channel27.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/x7lm797bklxnr2w/image/small" group-title="Xôi Lạc Z TV" , 02:00 23/11 🎮 DOCISK vs Francesinhas (HD MARTY)
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001795368196-0-0-5a8fea810b291f98e748bc127a4c71b9
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/j1l4rjztw82m7vx/image/small" group-title="Xôi Lạc Z TV" , 19:00 23/11 🏀 Nữ Xinjiang Tianshan vs Nữ Hebei Hengshuihu (HD KOBE)
+https://live2.pro2cdnlive.com/live/channel-27.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/l5ergytv0e5r8k0/image/small" group-title="Xôi Lạc Z TV" , 23:00 23/11 🏀 Desna Bryansk vs Tambov (KOBE)
+https://live2.pro2cdnlive.com/live/channel27.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/l5ergytv0e5r8k0/image/small" group-title="Xôi Lạc Z TV" , 23:00 23/11 🏀 Desna Bryansk vs Tambov (HD KOBE)
+https://live2.pro2cdnlive.com/live/channel-27.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/y0or5ofk1xnmwzv/image/small" group-title="Xôi Lạc Z TV" , 10:40 23/11 🥎 Max Schoenhaus vs Masamichi Imamura (VIC)
+https://live2.pro2cdnlive.com/live/channel32.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/y0or5ofk1xnmwzv/image/small" group-title="Xôi Lạc Z TV" , 10:40 23/11 🥎 Max Schoenhaus vs Masamichi Imamura (HD VIC)
+https://live2.pro2cdnlive.com/live/channel-32.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/ednm9ef4lz3ryox/image/small" group-title="Xôi Lạc Z TV" , 18:00 23/11 🥎 Gianluca Cadenasso vs Menelaos Efstathiou (VIC)
+https://live2.pro2cdnlive.com/live/channel32.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/ednm9ef4lz3ryox/image/small" group-title="Xôi Lạc Z TV" , 18:00 23/11 🥎 Gianluca Cadenasso vs Menelaos Efstathiou (HD VIC)
+https://live2.pro2cdnlive.com/live/channel-32.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/kjw2r0nhy1nqz84/image/small" group-title="Xôi Lạc Z TV" , 20:30 23/11 🏐 Nữ Metar Chelyabinsk vs Nữ Tulitsa (TYSON)
+https://live2.pro2cdnlive.com/live/channel33.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/kjw2r0nhy1nqz84/image/small" group-title="Xôi Lạc Z TV" , 20:30 23/11 🏐 Nữ Metar Chelyabinsk vs Nữ Tulitsa (HD TYSON)
+https://live2.pro2cdnlive.com/live/channel-33.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/d23xmvzh5g5qg8n/image/small" group-title="Xôi Lạc Z TV" , 23:30 23/11 🏐 Nữ Chemik Police vs Nữ Mielec (TYSON)
+https://live2.pro2cdnlive.com/live/channel33.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/d23xmvzh5g5qg8n/image/small" group-title="Xôi Lạc Z TV" , 23:30 23/11 🏐 Nữ Chemik Police vs Nữ Mielec (HD TYSON)
+https://live2.pro2cdnlive.com/live/channel-33.flv
 
